@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZTODKy29abgGrb+6C0gQf5wTNao+aJqNZU6G5f82lf4=",
+  "Source": "GoFurnish.Api",
+  "BasePath": "_content/GoFurnish.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

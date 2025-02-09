@@ -1,0 +1,6 @@
+@GoFurnish.Api_HostAddress = http://localhost:5163
+
+GET {{GoFurnish.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
